@@ -55,7 +55,7 @@ http://www.yiiframe.com
 
 ### 文档
 
-http://document.yiiframe.com
+http://doc.yiiframe.com
 
 ### 插件下载
 
