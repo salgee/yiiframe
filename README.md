@@ -59,11 +59,13 @@ http://doc.yiiframe.com
 ### 插件下载
 http://store.yiiframe.com
 
+### 项目演示 见QQ群公告(1107210028)
+
 ### 问题反馈
 
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-QQ群1：[1107210028](http://wpa.qq.com/msgrd?v=3&uin=21931118&site=qq&menu=yes)
+QQ：[21931118](http://wpa.qq.com/msgrd?v=3&uin=21931118&site=qq&menu=yes)
 
 GitHub：https://github.com/hjp1011/yiiframe/issues
 
