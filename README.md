@@ -46,19 +46,17 @@ YiiFrame 创建于 2020 年 4 月 16 日，基于 RF 快速开发引擎，目前
 - 如果要做小程序或微信开发需要明白微信接口的组成，自有服务器、微信服务器、公众号（还有其它各种号）、测试号、以及通信原理（交互过程）
 - 如果需要做接口开发(RESTful API)了解基本的 HTTP 协议，Header 头、请求方式（`GET\POST\PUT\PATCH\DELETE`）等
 - 能查看日志和 Debug 技能
-- 一定要仔细读一遍文档
 
+### 项目地址：
+
+Gitee：https://gitee.com/hjp1011/yiiframe
+Github:https://github.com/hjp1011/yiiframe
 
 ### 官网
-
 http://www.yiiframe.com
-
 ### 文档
-
 http://doc.yiiframe.com
-
 ### 插件下载
-
 http://store.yiiframe.com
 
 ### 问题反馈
