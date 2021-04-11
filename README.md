@@ -58,9 +58,6 @@ http://www.yiiframe.com
 ### 文档
 http://doc.yiiframe.com
 
-### 插件下载
-http://store.yiiframe.com
-
 ### 项目演示 
 见QQ群公告(1107210028)
 
